@@ -1,0 +1,8 @@
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\bin\Debug\SerieParaMalhar.Algoritimo30.exe.config
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\bin\Debug\SerieParaMalhar.Algoritimo30.exe
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\bin\Debug\SerieParaMalhar.Algoritimo30.pdb
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\obj\Debug\SerieParaMalhar.Algoritimo30.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\obj\Debug\SerieParaMalhar.Algoritimo30.csproj.SuggestedBindingRedirects.cache
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\obj\Debug\SerieParaMalhar.Algoritimo30.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\obj\Debug\SerieParaMalhar.Algoritimo30.exe
+C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalhar.Algoritimo30\obj\Debug\SerieParaMalhar.Algoritimo30.pdb
