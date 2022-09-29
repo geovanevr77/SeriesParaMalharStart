@@ -8,6 +8,9 @@ namespace SerieParaMalharStart.Algoritimo32 {
     internal class Program {
         static void Main(string[] args) {
 
+            Console.WriteLine("Digite um número: ");
+            double n1 = double.Parse(Console.ReadLine());
+            Console.WriteLine($"O {n1} é do tipo ", n1.GetType());
         }
     }
 }
