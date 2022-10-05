@@ -1,0 +1,8 @@
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\bin\Debug\SerieParaMalharStart.VoeAirlines.exe.config
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\bin\Debug\SerieParaMalharStart.VoeAirlines.exe
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\bin\Debug\SerieParaMalharStart.VoeAirlines.pdb
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.exe
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.pdb
