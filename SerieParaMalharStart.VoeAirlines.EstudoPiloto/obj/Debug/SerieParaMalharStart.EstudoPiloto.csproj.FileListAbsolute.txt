@@ -1,0 +1,8 @@
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\bin\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.exe.config
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\bin\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.exe
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\bin\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.pdb
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.EstudoPiloto.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.EstudoPiloto.csproj.SuggestedBindingRedirects.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.EstudoPiloto.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.exe
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.pdb

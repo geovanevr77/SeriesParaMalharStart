@@ -6,3 +6,11 @@ C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalharSt
 C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.csproj.CoreCompileInputs.cache
 C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.exe
 C:\Users\GEOVANE\Desktop\curso c# youtube\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.pdb
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\bin\Debug\SerieParaMalharStart.Algoritimo29.exe.config
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\bin\Debug\SerieParaMalharStart.Algoritimo29.exe
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\bin\Debug\SerieParaMalharStart.Algoritimo29.pdb
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.csproj.SuggestedBindingRedirects.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.exe
+C:\Users\GEOVANE\Desktop\cursoC#\SerieParaMalharStart\SerieParaMalharStart.Algoritimo29\obj\Debug\SerieParaMalharStart.Algoritimo29.pdb

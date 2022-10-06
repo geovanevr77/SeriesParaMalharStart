@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.VoeAirlines", "SerieParaMalharStart.VoeAirlines\SerieParaMalharStart.VoeAirlines.csproj", "{BE430FC0-6BB4-473F-A72A-DEE35141E60B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.EstudoPiloto", "SerieParaMalharStart.VoeAirlines.EstudoPiloto\SerieParaMalharStart.EstudoPiloto.csproj", "{4C842D6B-E8A1-4AD2-A29F-35D613265BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{BE430FC0-6BB4-473F-A72A-DEE35141E60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE430FC0-6BB4-473F-A72A-DEE35141E60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE430FC0-6BB4-473F-A72A-DEE35141E60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C842D6B-E8A1-4AD2-A29F-35D613265BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C842D6B-E8A1-4AD2-A29F-35D613265BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C842D6B-E8A1-4AD2-A29F-35D613265BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C842D6B-E8A1-4AD2-A29F-35D613265BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
